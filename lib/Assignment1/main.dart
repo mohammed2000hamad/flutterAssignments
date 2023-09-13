@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_assignment_1/Assignment1/HomeScreen().dart';
+import 'package:flutter_assignment_1/Assignment1/HomeScreen.dart';
 
 void main() {
   runApp( MainScreen());
